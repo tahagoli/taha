@@ -3,7 +3,6 @@ certifi
 tornado>=5.1
 cryptography
 python-telegram-bot
-json
 requests
 time
 urllib
